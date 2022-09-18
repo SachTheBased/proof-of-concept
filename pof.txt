@@ -1,0 +1,150 @@
+{
+    "_id": "631152955c7a651d31e762e5",
+    "isUnsubscribed": false,
+    "numUnlocks": 0,
+    "wins": 11,
+    "topFives": 11,
+    "totalPoints": 0,
+    "totalBlooks": 0,
+    "playersDefeated": 0,
+    "avgPoints": 0,
+    "tens": 0,
+    "fifties": 0,
+    "classicPoints": 0,
+    "racingProgress": 0,
+    "gamesPlayed": 11,
+    "correctAnswers": 948,
+    "racingCorrects": 0,
+    "racesWon": 0,
+    "totalCash": 150794,
+    "upgrades": 74,
+    "showdownWins": 0,
+    "totalCandy": 0,
+    "totalGold": 0,
+    "totalBrawlXp": 0,
+    "totalToys": 0,
+    "totalCrypto": 0,
+    "totalFishWeight": 0,
+    "boxesOpened": 0,
+    "gameHistory": [
+        {
+            "blookUsed": "Chick",
+            "cash": 0,
+            "date": "2022-09-17 01:02",
+            "name": "You",
+            "place": 1
+        },
+        {
+            "blookUsed": "Arctic Hare",
+            "cash": 16356,
+            "date": "2022-09-17 02:39",
+            "name": "You",
+            "place": 1
+        },
+        {
+            "blookUsed": "Pig",
+            "cash": 19606,
+            "date": "2022-09-17 03:03",
+            "name": "You",
+            "place": 1
+        },
+        {
+            "blookUsed": "Jaguar",
+            "cash": 1578,
+            "date": "2022-09-17 14:42",
+            "name": "You",
+            "place": 1
+        },
+        {
+            "blookUsed": "Cow",
+            "cash": 2046,
+            "date": "2022-09-17 15:01",
+            "name": "You",
+            "place": 1
+        },
+        {
+            "blookUsed": "Seal",
+            "cash": 30,
+            "date": "2022-09-17 15:09",
+            "name": "You",
+            "place": 1
+        },
+        {
+            "blookUsed": "Polar Bear",
+            "cash": 20684,
+            "date": "2022-09-17 15:41",
+            "name": "You",
+            "place": 1
+        },
+        {
+            "blookUsed": "Cockatoo",
+            "cash": 21496,
+            "date": "2022-09-18 16:26",
+            "name": "You",
+            "place": 1
+        },
+        {
+            "blookUsed": "Cow",
+            "cash": 32133,
+            "date": "2022-09-18 16:41",
+            "name": "You",
+            "place": 1
+        },
+        {
+            "blookUsed": "Panther",
+            "cash": 36865,
+            "date": "2022-09-18 16:52",
+            "name": "You",
+            "place": 1
+        }
+    ],
+    "favorites": null,
+    "tokens": 178,
+    "totalTokens": 178,
+    "tokensAvailable": 390,
+    "news": false,
+    "plan": "Starter",
+    "stagesCleared": 0,
+    "towerClears": 0,
+    "towerSaves": null,
+    "cafeCash": 0,
+    "foodServed": 0,
+    "cafeSaves": null,
+    "defenseRounds": 0,
+    "defenseDmg": 0,
+    "defenseSaves": null,
+    "guestsAnswered": 0,
+    "games": [
+        "6325daba3a2814f9d65eb511"
+    ],
+    "histories": null,
+    "homeworks": null,
+    "questCount": 0,
+    "numRefers": 0,
+    "classes": null,
+    "joinedClasses": null,
+    "name": "tstacc123456",
+    "blook": "Arctic Hare",
+    "dateCreated": "2022-09-02T00:47:17.159Z",
+    "lastTokenDay": "2022-09-18T00:00:00Z",
+    "modalMessage": "",
+    "quests": {},
+    "role": "Student",
+    "unlocks": null,
+    "blookUsage": {
+        "Arctic Hare": 1,
+        "Chick": 2,
+        "Cockatoo": 1,
+        "Cow": 2,
+        "Jaguar": 1,
+        "Panther": 1,
+        "Pig": 1,
+        "Polar Bear": 1,
+        "Seal": 1
+    },
+    "folders": null,
+    "favoriteFolders": null,
+    "xp": 125,
+    "xpAvailable": 195,
+    "customBlooks": []
+}
